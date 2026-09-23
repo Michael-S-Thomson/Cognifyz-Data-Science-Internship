@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+lfas-env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment / secrets
+.env
+*.env
+
+# Dataset files
+*.csv
+*.xlsx
+*.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
