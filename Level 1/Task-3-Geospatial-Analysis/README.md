@@ -70,6 +70,3 @@ These values indicate a very weak linear relationship between geographical coord
 - `Task3.ipynb` - Complete geospatial analysis notebook.
 - `README.md` - Task description, methodology, and findings.
 
-## Note
-
-This project was completed as part of the Cognifyz Data Science Internship.
