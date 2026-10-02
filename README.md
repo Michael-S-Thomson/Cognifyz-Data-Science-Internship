@@ -1,4 +1,4 @@
-# Cognifyz Data Science Internship
+# Restaurant Data Analysis and Predictive Modeling
 
 This repository contains my work completed during the Cognifyz Data Science Internship.
 
